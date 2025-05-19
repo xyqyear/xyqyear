@@ -6,9 +6,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyqyear&theme=dark&hide_border=true" alt="🔥 Streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyqyear&theme=dark" alt="🔥 Streak stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=xyqyear&theme=dark&include_all_commits=true" alt="📊 Github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyqyear&theme=dark&layout=compact&hide_border=true" alt="📊 Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyqyear&theme=dark&layout=compact" alt="📊 Top languages" />
 </div>
 
 ---
